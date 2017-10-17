@@ -6,3 +6,6 @@ bower_components/
 
 # WebStorm files
 .idea/
+
+#json files
+.json
